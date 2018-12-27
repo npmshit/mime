@@ -1,6 +1,6 @@
 {
   "name": "@modernjs/mime",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Mime types for JavaScript",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -21,11 +21,10 @@
     "url": "https://github.com/npmshit/mime/issues"
   },
   "homepage": "https://github.com/npmshit/mime#readme",
-  "dependencies": {
-    "@types/mime": "^2.0.0",
-    "mime": "^2.4.0"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "@types/mime": "^2.0.0",
+    "mime": "^2.4.0",
     "mime-types": "^2.1.21",
     "mocha": "^5.2.0"
   }

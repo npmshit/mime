@@ -1,6 +1,6 @@
 #!/bin/sh
 
-npm i mime@latest @types/mime@latest -S
+npm i mime@latest @types/mime@latest -D
 
 DIST=./dist
 mkdir -p $DIST
