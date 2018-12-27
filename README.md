@@ -1,7 +1,4 @@
 # @modernjs/mime
 
-Mime types for JavaScript
-
-Fork from [broofa/node-mime](https://github.com/broofa/node-mime)
-
-Add TypeScript support
+Mime types for JavaScript, includes [broofa/node-mime](https://github.com/broofa/node-mime)
+and [@types/mime](https://www.npmjs.com/package/@types/mime)
